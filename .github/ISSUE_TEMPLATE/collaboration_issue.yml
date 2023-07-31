@@ -21,8 +21,8 @@ attributes:
   ### 문제 설명
 
 -type: textarea
-  id: description
-  attributes:
+id: description
+attributes:
   label: 설명
   description: 문제에 대해 자세하기 설명하기 (생략가능)
   
