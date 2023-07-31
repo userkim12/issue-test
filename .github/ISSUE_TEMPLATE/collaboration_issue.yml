@@ -16,7 +16,7 @@ attributes:
     required: true
 
 -type: markdown
-  attributes:
+attributes:
   value: |
   ### 문제 설명
 
